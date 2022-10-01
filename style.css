@@ -6,7 +6,10 @@
 
 body{
     height: 100vh;
-    background-color: #1d2630;
+    /* background-color: #1d2630; */
+    background-image: url("./bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .wrapper{
